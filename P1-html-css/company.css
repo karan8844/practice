@@ -1,0 +1,62 @@
+
+body{
+    background-color:whitesmoke;
+}
+.img{
+    padding-top:20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    float: left;
+    padding-left: 200px;
+}
+.Account{
+    display: flex;
+    padding-left: 30px;  
+}
+.company{
+    padding-left: 40px;
+}
+.first{
+    margin: 25px;
+    font-size: 15px;
+    position: relative;
+}
+.email{
+    margin: 25px;
+    font-size: 15px;
+}
+.text{
+    margin: 20px;
+}
+.job{
+    display: flex;
+    margin: 20px;
+}
+.password{
+    display: flex;
+    margin: 30px;   
+}
+.button{
+    background-color: #0073ff;
+    color:aliceblue
+}
+.button1{
+    float: right;
+    margin-right: 60px;
+}
+.button2{
+    background-color: #14147d;
+    color:aliceblue
+}
+.button3{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 60px;
+}
+.button4{
+    background-color:deepskyblue;
+    color: aliceblue;
+}
+
+
